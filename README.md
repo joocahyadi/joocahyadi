@@ -1,5 +1,10 @@
-## Hello, I'm Joshia 👋
+## Whooppss! Who's there? 😮
 
+![Banner README Github](https://user-images.githubusercontent.com/70884538/151996222-5c2736b5-ce14-4509-9ef8-955ae5f6cabd.png)
+
+Yupp, that's one of my favourite quotes!
+
+You may know me or not, but here's 2 things about me:
 - 👀 I’m interested in Data Science, Machine Learning, and Maths.
 - 📚 I’m currently an undergrads majoring in Maths.
 
